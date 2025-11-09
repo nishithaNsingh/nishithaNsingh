@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishithansingh" alt="nishithansingh" /></a> </p>
 
-- 🌱 I’m currently learning **flutter,python**
 
-- 👯 I’m looking to collaborate on **flutter project**
 
 - 📫 How to reach me **nishithasingh777@gmail.com**
 
