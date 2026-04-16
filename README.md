@@ -1,70 +1,70 @@
 <h1 align="center">Hi, I'm Nishitha Singh 👋</h1>
-<h3 align="center">SDE | Backend & Systems </h3>
+<h3 align="center">Python Backend Engineer | ML Systems</h3>
 
 <p align="center">
-SDE with a strong backend focus — I build systems that handle users, data, payments, and real-time workflows.  
+I build real-time backend systems powered by machine learning — focusing on FastAPI, data pipelines, and scalable architectures.
 </p>
 
 ---
 
-## 🧭 My SDE Quest
-- 🏗️ Designing and building scalable backend systems 
-- 🔐 Implementing secure auth (JWT, RBAC)  
-- ⚙️ Building RESTful APIs with Node.js & FastAPI  
-- 🗄️ Working with SQL & NoSQL databases  
-- ⚡ Optimizing performance for real-world workloads  
-- ☁️ Deploying systems to the cloud  
+## 🧭 What I Focus On
+
+- ⚡ Building high-performance APIs using FastAPI  
+- 🧠 Developing and integrating ML models into backend systems  
+- 🔄 Designing real-time data pipelines (WebSockets, streaming)  
+- 📊 Working with data preprocessing, model training, and evaluation  
+- 🗄️ Managing structured and unstructured data  
+- ☁️ Deploying scalable Python systems  
 
 ---
 
-## 🏗️ Systems I’ve Built
+## 🚀 Featured Work
 
-### 🟣 AMO — Social Platform Backend (2025)
-**Node.js • Express • MongoDB • Stripe**  
-Backend system for a social platform with media, auth & monetization.
- - Implemented JWT auth, RBAC, posts, media uploads  
-- Integrated Stripe for payments & ad workflows  
-- Built modular APIs for notifications & analytics  
-🔗 Repo: [AMO](https://github.com/nishithaNsingh/AMO_backend) 
-
+- 🔵 **Real-Time Anomaly Detection Pipeline**  
+  → Built real-time streaming system using FastAPI & WebSockets for anomaly detection  
+  → Integrated ML model with async processing and caching for low-latency inference  
+  → https://github.com/nishithaNsingh/realtime-anomaly-detection  
 
 ---
 
-### 🟢 Longevity — E-Commerce Backend (2025)
-**Node.js • Express • MongoDB**  
-Powering healthy commerce with end-to-end order workflows.  
-- Products, cart, checkout, orders & delivery tracking  
-- Real-time order status updates  
-- Secure auth & payment integration  
-🔗 Repo: [Longevity](https://github.com/nishithaNsingh/longevity_backend)
+- 🟣 **MiningBot — AI Backend API**  
+  → Developed FastAPI-based backend integrating LLM (DeepSeek) for domain-specific Q&A  
+  → Designed production-ready REST APIs handling structured JSON requests/responses  
+  → https://github.com/nishithaNsingh/mine_bot_new  
 
 ---
 
-### 🔵 MiningBot — AI Backend (2024)
-**FastAPI • Python • DeepSeek API**  
-AI-powered backend for domain-specific Q&A.  
-- Context-aware responses via LLM integration  
-- Production-ready API deployed on cloud  
-🔗 Repo: [MineBot](https://github.com/nishithaNsingh/mine_bot_new)
+- 🟢 **Customer Churn Prediction System**  
+  → Built ML pipeline (Random Forest, XGBoost) with preprocessing & imbalance handling (SMOTE)  
+  → Developed interactive app for real-time predictions with business-focused insights  
+  → https://github.com/nishithansingh/customer-churn-prediction  
 
 ---
 
-
-
-## 🛠️ SDE Toolkit
-**Languages:** Python, JavaScript, SQL  
-**Backend:** Node.js, Express, FastAPI  
-**Databases:** MySQL, MongoDB, Firebase  
-**Tools:**  WebSockets, JWT, Git, Postman  
-**Cloud:** AWS, Google Cloud, Render  
+- ⚪ **Real-Time Chat Application**  
+  → Built WebSocket-based chat system with offline message support using Redis  
+  → Designed scalable architecture with PostgreSQL, caching, and real-time user tracking  
+  → https://github.com/nishithaNsingh/chat-app  
 
 ---
 
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL  
+**Backend:** FastAPI  
+**ML/Data:** scikit-learn, Pandas, NumPy, XGBoost  
+**Systems:** WebSockets, REST APIs, Async Processing  
+**Databases:** MongoDB, MySQL, PostgreSQL, Firebase  
+**Tools:** Git, Postman  
+**Cloud:** AWS, Google Cloud  
+
+---
 
 ## 📫 Reach Me
-📧 Email: nishithasingh777@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/nishitha-singh-n-a68b71256/
-💡 LeetCode: https://leetcode.com/nishitha_777  
+
+📧 nishithasingh777@gmail.com  
+💼 https://www.linkedin.com/in/nishitha-singh-n-a68b71256/  
+💡 https://leetcode.com/nishitha_777  
 
 ---
 
