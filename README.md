@@ -50,13 +50,13 @@ I build real-time backend systems powered by machine learning — focusing on Fa
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, SQL  
-**Backend:** FastAPI  
-**ML/Data:** scikit-learn, Pandas, NumPy, XGBoost  
-**Systems:** WebSockets, REST APIs, Async Processing  
-**Databases:** MongoDB, MySQL, PostgreSQL, Firebase  
-**Tools:** Git, Postman  
-**Cloud:** AWS, Google Cloud  
+**Languages**: Python, SQL  
+**Backend**: FastAPI, REST APIs, Async Programming  
+**Data Engineering**: Data Processing Pipelines, ETL Workflows, Real-Time Data Streaming  
+**ML Systems**: Model Integration, Feature Engineering, Classification \
+**Systems**: WebSockets, Event-Driven Architecture, Real-Time Processing  
+**Databases**: PostgreSQL, MongoDB, MySQL\
+**Core Strengths**: Backend Systems, Data Pipelines, Scalable APIs, Concurrency, Low-Latency Processing
 
 ---
 
