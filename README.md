@@ -68,6 +68,4 @@ I build real-time backend systems powered by machine learning — focusing on Fa
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nishithansingh&show_icons=true" />
-</p>
+
