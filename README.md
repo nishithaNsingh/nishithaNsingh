@@ -64,7 +64,7 @@ I build real-time backend systems powered by machine learning — focusing on Fa
 
 📧 nishithasingh777@gmail.com  
 💼 https://www.linkedin.com/in/nishitha-singh-n-a68b71256/  
-💡 https://leetcode.com/nishitha_777  
+
 
 ---
 
