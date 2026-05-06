@@ -1,71 +1,79 @@
 <h1 align="center">Hi, I'm Nishitha Singh 👋</h1>
-<h3 align="center">Python Backend Engineer | ML Systems</h3>
+<h3 align="center">Applied AI Engineer | LLM Systems | RAG & Agentic Workflows</h3>
 
 <p align="center">
-I build real-time backend systems powered by machine learning — focusing on FastAPI, data pipelines, and scalable architectures.
+I build production AI systems — hybrid RAG pipelines, agentic workflows, async inference backends, and scalable FastAPI infrastructure for real-world AI applications.
 </p>
 
 ---
 
 ## 🧭 What I Focus On
 
-- ⚡ Building high-performance APIs using FastAPI  
-- 🧠 Developing and integrating ML models into backend systems  
-- 🔄 Designing real-time data pipelines (WebSockets, streaming)  
-- 📊 Working with data preprocessing, model training, and evaluation  
-- 🗄️ Managing structured and unstructured data  
-- ☁️ Deploying scalable Python systems  
+- ⚡ Building production-grade AI backends using FastAPI & async systems  
+- 🧠 Developing hybrid RAG pipelines with reranking and grounded generation  
+- 🤖 Designing agentic workflows with tool use, memory, and orchestration  
+- 📊 Building evaluation-driven AI systems using RAGAS and retrieval metrics  
+- 🔄 Real-time inference pipelines with WebSockets, Redis, and streaming architectures  
+- ☁️ Deploying scalable AI systems with Docker, cloud platforms, and vector databases  
 
 ---
 
 ## 🚀 Featured Work
 
-- 🔵 **Real-Time Anomaly Detection Pipeline**  
-  → Built real-time streaming system using FastAPI & WebSockets for anomaly detection  
-  → Integrated ML model with async processing and caching for low-latency inference  
-  → https://github.com/nishithaNsingh/realtime-anomaly-detection  
+### 🟣 DocuMind — Production Hybrid RAG System
+→ Built financial & compliance-focused RAG system using Qdrant, BM25, RRF, and Cohere reranking  
+→ Integrated grounded LLM generation with RAGAS evaluation (Faithfulness: 0.90, Recall: 1.00)  
+→ Designed scalable retrieval architecture for long-form enterprise documents  
+→ https://github.com/nishithaNsingh/DocuMind
+
+---
+### 🔴 Call Audit — AI Voice Failure Analysis System
+→ Built AI-powered audit system that analyzes voice-agent call transcripts and detects conversational failures  
+→ Identifies risk patterns like user confusion, dead ends, and promise-risk violations with severity scoring  
+→ Generates deployable prompt fixes and summarizes recurring failure patterns automatically  
+→ Built using FastAPI, Anthropic/OpenAI-compatible APIs, and structured LLM workflows  
+→ https://github.com/nishithaNsingh/call-audit
 
 ---
 
-- 🟣 **MiningBot — AI Backend API**  
-  → Developed FastAPI-based backend integrating LLM (DeepSeek) for domain-specific Q&A  
-  → Designed production-ready REST APIs handling structured JSON requests/responses  
-  → https://github.com/nishithaNsingh/mine_bot_new  
+### 🔵 Real-Time Anomaly Detection Pipeline
+→ Built streaming ML inference system using FastAPI, WebSockets, and async processing  
+→ Integrated Redis caching and low-latency anomaly detection pipelines for real-time operation  
+→ Designed architecture similar to production AI inference systems  
+→ https://github.com/nishithaNsingh/realtime-anomaly-detection  
 
 ---
 
-- 🟢 **Customer Churn Prediction System**  
-  → Built ML pipeline (Random Forest, XGBoost) with preprocessing & imbalance handling (SMOTE)  
-  → Developed interactive app for real-time predictions with business-focused insights  
-  → https://github.com/nishithansingh/customer-churn-prediction  
+### 🟢 MiningBot — AI Backend API
+→ Developed LLM-powered backend system using FastAPI and DeepSeek APIs  
+→ Designed production-ready REST APIs handling structured AI workflows and inference pipelines  
+→ Built scalable backend architecture for domain-specific AI assistance  
+→ https://github.com/nishithaNsingh/mine_bot_new  
 
 ---
 
-- ⚪ **Real-Time Chat Application**  
-  → Built WebSocket-based chat system with offline message support using Redis  
-  → Designed scalable architecture with PostgreSQL, caching, and real-time user tracking  
-  → https://github.com/nishithaNsingh/chat-app  
+### ⚪ Scalable Real-Time Chat Backend
+→ Built WebSocket-based backend with Redis pub/sub, offline queueing, and PostgreSQL persistence  
+→ Implemented JWT auth, real-time session handling, and scalable async architecture  
+→ Infrastructure pattern mirrors AI memory/session systems  
+→ https://github.com/nishithaNsingh/chat-app  
 
 ---
 
 ## 🛠️ Tech Stack
 
+**AI & LLM Systems**: LangChain, RAG Pipelines, Qdrant, FAISS, Cohere Reranking, Embeddings, RAGAS, Agentic Workflows  
+**Backend**: FastAPI, REST APIs, Async Processing, WebSockets, Redis  
 **Languages**: Python, SQL  
-**Backend**: FastAPI, REST APIs, Async Programming  
-**Data Engineering**: Data Processing Pipelines, ETL Workflows, Real-Time Data Streaming  
-**ML Systems**: Model Integration, Feature Engineering, Classification \
-**Systems**: WebSockets, Event-Driven Architecture, Real-Time Processing  
-**Databases**: PostgreSQL, MongoDB, MySQL\
-**Core Strengths**: Backend Systems, Data Pipelines, Scalable APIs, Concurrency, Low-Latency Processing
+**Databases**: PostgreSQL, MongoDB, MySQL, Vector Databases  
+**Infrastructure**: Docker, AWS, GCP, Firebase, Render  
+**Core Strengths**: AI Infrastructure, Retrieval Systems, Scalable APIs, Low-Latency Inference, Backend Architecture
 
 ---
 
 ## 📫 Reach Me
 
 📧 nishithasingh777@gmail.com  
-💼 https://www.linkedin.com/in/nishitha-singh-n-a68b71256/  
-
+💼 https://www.linkedin.com/in/nishitha-singh-n-a68b71256/
 
 ---
-
-
