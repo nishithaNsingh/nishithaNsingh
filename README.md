@@ -54,4 +54,4 @@ Production-grade messaging backend: WebSocket connections, Redis pub/sub for del
 
 ## Contact
 
-nishithasingh777@gmail.com · [LinkedIn](https://www.linkedin.com/in/nishitha-singh-n-a68b71256/)
+nishithasinghn11@gmail.com · [LinkedIn](https://www.linkedin.com/in/nishitha-singh-n-a68b71256/)
