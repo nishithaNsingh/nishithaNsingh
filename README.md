@@ -25,7 +25,7 @@ Live social commerce platform, built end-to-end:
 Eliminated double-booking race conditions using PostgreSQL row-level locks (`SELECT ... FOR UPDATE`) instead of app-level mutex/Redis lock — proved correctness with 10 simultaneous hold requests on one seat (1 confirmed, 9 correctly rejected, 0 double-bookings).
 - TTL-based seat holds, idempotency-key-protected booking confirmation, signed webhook payment verification
 - Stack: Node.js, Express, PostgreSQL (Supabase), JWT
-🔗 [GitHub](https://github.com/nishithaNsingh)
+🔗 [GitHub](https://github.com/nishithaNsingh/Turnstile)
 
 ### 📊 AgentOps — AI Evaluation & Observability Platform
 *In active development.* Backend for evaluating and monitoring AI agent behavior — dashboard, playground, evaluations, knowledge base.
